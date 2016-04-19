@@ -1,6 +1,6 @@
 # grunt-init-electron
 
-> Scaffolds a basic Electron  with [grunt-init][].
+> Scaffolds a basic Electron application with [grunt-init][].
 
 [grunt-init]: http://gruntjs.com/project-scaffolding
 
